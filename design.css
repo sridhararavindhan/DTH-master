@@ -1,0 +1,411 @@
+#head
+{
+    background-image: url("images/headback.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.nav-link
+{
+        font-size: 20px;
+        font-weight: 500;
+        font-family: Poppins;
+        color: #000;
+        overflow: hidden;      
+}
+.nav-link:hover{
+    color: #0B108D;
+}
+
+#headtext{
+    font-size: 45px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #1b1b1b;
+    overflow: hidden;
+}
+#headloram{
+    font-size: 22px;
+    letter-spacing: 0.02em;
+    font-family: Poppins;
+    color: #343434;
+    overflow: hidden;
+}
+#headbutton{
+
+    font-size: 26px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #000;
+
+    border-radius: 12px;
+    border: 1.8px solid #0b108d;
+    box-sizing: border-box;
+    width: 222px;
+    height: 59.8px;
+    padding: 10px;
+    overflow: hidden;
+
+}
+#headbutton:hover{
+    color: #FFFFFF;
+    background-color: #0B108D;
+}
+
+/* page-2 */
+
+
+#weare
+{
+    background-image: url("images/weare-back.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+#who
+{
+    letter-spacing: 0.01em;
+    font-weight: 500;
+    font-family: Poppins;
+    background: linear-gradient(180deg, #0533d3, rgba(37, 41, 57, 0.71));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    overflow: hidden;
+}
+#wholoram{
+    font-size: 24px;
+    letter-spacing: 0.02em;
+    font-family: Poppins;
+    color: #222;
+    overflow: hidden;
+}
+
+
+
+/* cards */
+
+#card1{
+    border-radius: 16px;
+    background-color: #fbfbfb;
+    box-shadow: 2px 4px 36px rgba(0, 0, 0, 0.1);
+    /* width: 334px; */
+    width: 296px;
+    height: 580px;
+    overflow: hidden;
+}
+#card1:hover{
+    background-color: #87A6F6;
+}
+#card-head{
+    font-size: 42px;
+    letter-spacing: 0.01em;
+    line-height: 62px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #717171;
+    overflow: hidden;
+}
+#text{
+    font-size: 56px;
+    letter-spacing: 0.01em;
+    line-height: 88px;
+    font-weight: 600;
+    font-family: Poppins;
+    color: #4d4d4d;
+    overflow: hidden;
+}
+#month{
+    font-size: 20px;
+    letter-spacing: 0.01em;
+    line-height: 30px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #8b8b8b;
+    overflow: hidden;
+}
+#cardbutton{
+
+    font-size: 20px;
+    letter-spacing: 0.01em;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #fff;
+
+    border-radius: 12px;
+    background-color: #3291e9;
+    /* width: 264px; */
+    width: 240px;
+    height: 50px;
+    padding: 10px;
+    overflow: hidden;
+}
+ul{
+    font-size: 20px;
+    letter-spacing: 0.01em;
+    line-height: 30px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #000;
+    text-align: left;
+    overflow: hidden;
+}
+#list{
+    list-style-type: none;
+    font-size: 16px;
+    letter-spacing: 0.01em;
+    line-height: 24px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #646464;
+    margin-left: -29%;
+    padding-top: 6%;
+    overflow: hidden;
+}
+.card-footer{
+    background-color: #DCDCDC;
+}
+.card-footer:hover{
+    background-color: #87A6F6;
+}
+#footer{
+    
+    font-size: 24px;
+    letter-spacing: 0.01em;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #000;
+    overflow: hidden;
+}
+#cardpop{
+    border-radius: 6px;
+    background-color: #d1e9ff;
+    width: 69px;
+    height: 28px;
+   margin-left: 69%;
+   margin-top: 2%;
+   overflow: hidden;
+}
+
+#happy{
+    letter-spacing: 0.01em;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #000;
+    overflow: hidden;
+}
+#phone{
+    border-radius: 12px;
+    background-color: #f1f1f1;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.21);
+    width: 400px;
+    height: 170px;
+    
+}
+#card-phone{
+    font-size: 22px;
+    line-height: 36px;
+    font-weight: 600;
+    font-family: Poppins;
+    color: #4d4d4d;
+    overflow: hidden;
+    overflow-y: hidden;
+}
+#card-number{
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #707070;
+    overflow: hidden;
+}
+#form{
+    border-radius: 16px;
+    background-color: #f1f1f1;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.21);
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.form-label{
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #353535;
+    margin-top: 9%;
+    margin-left: 3%;
+    overflow: hidden;
+}
+.form-control{
+
+    font-size: 14px;
+    line-height: 24px;
+    font-family: Poppins;
+    color: #989898;
+
+    border-radius: 24px;
+    border: 0.8px solid #969696;
+    box-sizing: border-box;
+    width: 100%;
+    height: 44.8px;
+    margin-top: 5%;
+    overflow: hidden;
+}
+#form-button{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+    font-family: Poppins;
+    color: #fff;
+    margin-left: 2.5%;
+    margin-top: 25%;
+    border-radius: 36px;
+    background-color: #2547bf;
+    width: 100%;
+    height: 59px;
+    margin-bottom: 5%;
+    overflow: hidden;
+}
+
+#last{
+    background-image: url("images/lastpageback.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+#carouselcard1{
+    width: 509px;
+    height: 300px;
+    margin-left: 60px;
+    background-color: #FDFDFD;
+    overflow: hidden;
+}
+#quote-icon {
+    width: 72px;
+    height: 72px;
+    margin-left: -67%;
+    overflow: hidden;
+}
+#cardloram{
+    font-size: 20px;
+    letter-spacing: 0.01em;
+    font-family: Poppins;
+    color: #6a6a6a;
+    overflow: hidden;
+}
+#car{
+    background-color: #E0E9FF;
+}
+#card-img{
+    border-radius: 50%;
+    width: 78px;
+    height: 78px;
+    /* margin-left: -73%; */
+    text-align: end;
+    object-fit: cover;
+    overflow: hidden;
+}
+#card-name{
+    font-size: 20px;
+    letter-spacing: 0.01em;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #000;
+    text-align: start;
+    /* margin-left: 30%;
+    margin-top: -35%; */
+    overflow: hidden;
+}
+#work{
+    font-size: 17px;
+    letter-spacing: 0.01em;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #7280fe;
+    text-align: start;
+    /* margin-left: 22%;
+    margin-top: -5%; */
+    overflow: hidden;
+}
+#footers{
+    background-image: url("images/footerback.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden; 
+}
+ol{
+    font-size: 22px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #fff;
+    margin-top: 5%;
+    overflow: hidden;
+}
+#foot{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #fff;
+    list-style: none;
+    margin-top: 5%;
+    overflow: hidden;
+}
+#company{
+    font-size: 18px;
+    font-family: Poppins;
+    color: #b3b3b3;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 767px) {
+    .carousel-inner .carousel-item > div {
+        display: none;
+    }
+    .carousel-inner .carousel-item > div:first-child {
+        display: block;
+    }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+    display: flex;
+}
+
+/* medium and up screens */
+@media (min-width: 768px) {
+    
+    .carousel-inner .carousel-item-end.active,
+    .carousel-inner .carousel-item-next {
+      transform: translateX(25%);
+    }
+    
+    .carousel-inner .carousel-item-start.active, 
+    .carousel-inner .carousel-item-prev {
+      transform: translateX(-25%);
+    }
+}
+
+.carousel-inner .carousel-item-end,
+.carousel-inner .carousel-item-start { 
+  transform: translateX(0);
+}
+
